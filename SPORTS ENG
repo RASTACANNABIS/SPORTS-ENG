@@ -1,0 +1,258 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-chno="1" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 1 HD"  group-title="Unsorted",*TSN 1 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/138
+
+#EXTINF:-1, tvg-chno="2" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 2 HD"  group-title="Unsorted",*TSN 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/139
+
+#EXTINF:-1, tvg-chno="3" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 3 HD"  group-title="Unsorted",*TSN 3 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/140
+
+#EXTINF:-1, tvg-chno="4" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 4 HD"  group-title="Unsorted",*TSN 4 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/141
+
+#EXTINF:-1, tvg-chno="5" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*TSN 5 HD"  group-title="Unsorted",*TSN 5 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/142
+
+#EXTINF:-1, tvg-chno="6 "tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*ESPN HD"  group-title="Unsorted",*ESPN HD
+http://f.ok2.se:8000/Fonzi/Fonzi/143
+
+#EXTINF:-1, tvg-chno="7" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN 2 HD"  group-title="Unsorted",ESPN 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/144
+
+#EXTINF:-1, tvg-chno="8" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN ACC HD"  group-title="Unsorted",ESPN ACC HD
+http://f.ok2.se:8000/Fonzi/Fonzi/86092
+
+#EXTINF:-1, tvg-chno="9" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN NEWS HD - NEW"  group-title="Unsorted",ESPN NEWS HD - NEW
+http://f.ok2.se:8000/Fonzi/Fonzi/59038
+
+#EXTINF:-1, tvg-chno="10" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*FOX SPORTS 1 HD"  group-title="Unsorted",*FOX SPORTS 1 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/145
+
+#EXTINF:-1, tvg-chno="11" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*FOX SPORTS 2 HD"  group-title="Unsorted",*FOX SPORTS 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/146
+
+#EXTINF:-1, tvg-chno="12" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET ONT HD"  group-title="Unsorted",*SPORTSNET ONT HD
+http://f.ok2.se:8000/Fonzi/Fonzi/148
+
+#EXTINF:-1, tvg-chno="13" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET ONE HD"  group-title="Unsorted",*SPORTSNET ONE HD
+http://f.ok2.se:8000/Fonzi/Fonzi/149
+
+#EXTINF:-1, tvg-chno="14" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTSNET WEST HD"  group-title="Unsorted",SPORTSNET WEST HD
+http://f.ok2.se:8000/Fonzi/Fonzi/8890
+
+#EXTINF:-1, tvg-chno="15" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET PACIFIC HD"  group-title="Unsorted",*SPORTSNET PACIFIC HD
+http://f.ok2.se:8000/Fonzi/Fonzi/2434
+
+#EXTINF:-1, tvg-chno="16" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET 360 HD"  group-title="Unsorted",*SPORTSNET 360 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/147
+
+#EXTINF:-1, tvg-chno="17" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*SPORTSNET WORLD HD"  group-title="Unsorted",*SPORTSNET WORLD HD
+http://f.ok2.se:8000/Fonzi/Fonzi/150
+
+#EXTINF:-1, tvg-chno="18" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*NFL NETWORK HD"  group-title="Unsorted",*NFL NETWORK HD
+http://f.ok2.se:8000/Fonzi/Fonzi/157
+
+#EXTINF:-1, tvg-chno="19" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*NHL NETWORK HD"  group-title="Unsorted",*NHL NETWORK HD
+http://f.ok2.se:8000/Fonzi/Fonzi/156
+
+#EXTINF:-1, tvg-chno="20" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="*NBA HD"  group-title="Unsorted",*NBA HD
+http://f.ok2.se:8000/Fonzi/Fonzi/165
+
+#EXTINF:-1, tvg-chno="21" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSG HD - NEW"  group-title="Unsorted",MSG HD - NEW
+http://f.ok2.se:8000/Fonzi/Fonzi/10052
+
+#EXTINF:-1, tvg-chno="22" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="YES NETWORK HD"  group-title="Unsorted",YES NETWORK HD
+http://f.ok2.se:8000/Fonzi/Fonzi/10034
+
+#EXTINF:-1, tvg-chno="23" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB NETWORK HD"  group-title="Unsorted",MLB NETWORK HD
+http://f.ok2.se:8000/Fonzi/Fonzi/2193
+
+#EXTINF:-1, tvg-chno="24" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 1 HD"  group-title="Unsorted",BT SPORTS 1 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/225
+
+#EXTINF:-1, tvg-chno="25" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 2 HD"  group-title="Unsorted",BT SPORTS 2 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/226
+
+#EXTINF:-1, tvg-chno="26" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS 3 HD"  group-title="Unsorted",BT SPORTS 3 HD
+http://f.ok2.se:8000/Fonzi/Fonzi/232
+
+#EXTINF:-1, tvg-chno="27" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BT SPORTS ESPN"  group-title="Unsorted",BT SPORTS ESPN
+http://f.ok2.se:8000/Fonzi/Fonzi/233
+
+#EXTINF:-1, tvg-chno="28" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOTOR TREND HD"  group-title="Unsorted",MOTOR TREND HD
+http://f.ok2.se:8000/Fonzi/Fonzi/367
+
+#EXTINF:-1, tvg-chno="29" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA HD"  group-title="Unsorted",NBA HD
+http://f.ok2.se:8000/Fonzi/Fonzi/83330
+
+#EXTINF:-1, tvg-chno="30" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA 1 (TSN 5)"  group-title="Unsorted",NBA 1 (TSN 5)
+http://f.ok2.se:8000/Fonzi/Fonzi/83331
+
+#EXTINF:-1, tvg-chno="30" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA 2 (SNET 1)"  group-title="Unsorted",NBA 2 (SNET 1)
+http://f.ok2.se:8000/Fonzi/Fonzi/83332
+
+#EXTINF:-1, tvg-chno="31" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA 3 (TSN 3)"  group-title="Unsorted",NBA 3 (TSN 3)
+http://f.ok2.se:8000/Fonzi/Fonzi/83333
+
+#EXTINF:-1, tvg-chno="32" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL NET HD"  group-title="Unsorted",NHL NET HD
+http://f.ok2.se:8000/Fonzi/Fonzi/42395
+
+#EXTINF:-1, tvg-chno="33" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL 1 (SNET O)"  group-title="Unsorted",NHL 1 (SNET O)
+http://f.ok2.se:8000/Fonzi/Fonzi/8895
+
+#EXTINF:-1, tvg-chno="34" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHL 2 (SNET 360)"  group-title="Unsorted",NHL 2 (SNET 360)
+http://f.ok2.se:8000/Fonzi/Fonzi/8892
+
+#EXTINF:-1, tvg-chno="35" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB NET HD"  group-title="Unsorted",MLB NET HD
+http://f.ok2.se:8000/Fonzi/Fonzi/96564
+
+#EXTINF:-1, tvg-chno="36" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB STRIKE ZONE HD"  group-title="Unsorted",MLB STRIKE ZONE HD
+http://f.ok2.se:8000/Fonzi/Fonzi/96565
+
+#EXTINF:-1, tvg-chno="37" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPECTRUM SPORTSNET LA HD"  group-title="Unsorted",SPECTRUM SPORTSNET LA HD
+http://f.ok2.se:8000/Fonzi/Fonzi/96567
+
+#EXTINF:-1, tvg-chno="38" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 1 (ESPN)"  group-title="Unsorted",MLB 1 (ESPN)
+http://f.ok2.se:8000/Fonzi/Fonzi/96568
+ 
+#EXTINF:-1, tvg-chno="39" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 2 (ESPN 2)"  group-title="Unsorted",MLB 2 (ESPN 2)
+http://f.ok2.se:8000/Fonzi/Fonzi/96569
+
+#EXTINF:-1, tvg-chno="40" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 3 (FOX EAST)"  group-title="Unsorted",MLB 3 (FOX EAST)
+http://f.ok2.se:8000/Fonzi/Fonzi/96570
+
+#EXTINF:-1, tvg-chno="41" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 4 (FOX SPORTS 1)"  group-title="Unsorted",MLB 4 (FOX SPORTS 1)
+http://f.ok2.se:8000/Fonzi/Fonzi/96571
+
+#EXTINF:-1, tvg-chno="42" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB 5 (TBS)"  group-title="Unsorted",MLB 5 (TBS)
+http://f.ok2.se:8000/Fonzi/Fonzi/96572
+
+#EXTINF:-1, tvg-chno="43" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL NETWORK"  group-title="Unsorted",NFL NETWORK
+http://f.ok2.se:8000/Fonzi/Fonzi/105005
+
+#EXTINF:-1, tvg-chno="44" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REDZONE HD"  group-title="Unsorted",REDZONE HD
+http://f.ok2.se:8000/Fonzi/Fonzi/105006
+
+#EXTINF:-1, tvg-chno="45" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 1"  group-title="Unsorted",NFL 1
+http://f.ok2.se:8000/Fonzi/Fonzi/105007
+
+#EXTINF:-1, tvg-chno="46" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 2"  group-title="Unsorted",NFL 2
+http://f.ok2.se:8000/Fonzi/Fonzi/105008
+
+#EXTINF:-1, tvg-chno="47" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 3"  group-title="Unsorted",NFL 3
+http://f.ok2.se:8000/Fonzi/Fonzi/105009
+
+#EXTINF:-1, tvg-chno="48" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 4"  group-title="Unsorted",NFL 4
+http://f.ok2.se:8000/Fonzi/Fonzi/105010
+
+#EXTINF:-1, tvg-chno="49" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 5"  group-title="Unsorted",NFL 5
+http://f.ok2.se:8000/Fonzi/Fonzi/105011
+
+#EXTINF:-1, tvg-chno="50" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 6"  group-title="Unsorted",NFL 6
+http://f.ok2.se:8000/Fonzi/Fonzi/105012
+
+#EXTINF:-1, tvg-chno="51" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 7"  group-title="Unsorted",NFL 7
+http://f.ok2.se:8000/Fonzi/Fonzi/105013
+
+#EXTINF:-1, tvg-chno="52" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 8"  group-title="Unsorted",NFL 8
+http://f.ok2.se:8000/Fonzi/Fonzi/105014
+
+#EXTINF:-1, tvg-chno="53" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 9"  group-title="Unsorted",NFL 9
+http://f.ok2.se:8000/Fonzi/Fonzi/105015
+
+#EXTINF:-1, tvg-chno="54" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 10"  group-title="Unsorted",NFL 10
+http://f.ok2.se:8000/Fonzi/Fonzi/105016
+
+#EXTINF:-1, tvg-chno="55" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 11"  group-title="Unsorted",NFL 11
+http://f.ok2.se:8000/Fonzi/Fonzi/105017
+
+#EXTINF:-1, tvg-chno="56" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 12"  group-title="Unsorted",NFL 12
+http://f.ok2.se:8000/Fonzi/Fonzi/105018
+
+#EXTINF:-1, tvg-chno="57" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 13"  group-title="Unsorted",NFL 13
+http://f.ok2.se:8000/Fonzi/Fonzi/105019
+
+#EXTINF:-1, tvg-chno="58" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL FILMS PRESENT (24X7)"  group-title="Unsorted",NFL FILMS PRESENT (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82794
+
+#EXTINF:-1, tvg-chno="59" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL MIC'D UP (24X7)"  group-title="Unsorted",NFL MIC'D UP (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82793
+
+#EXTINF:-1, tvg-chno="60" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL SUPERBOWL (24X7)"  group-title="Unsorted",NFL SUPERBOWL (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82792
+
+#EXTINF:-1, tvg-chno="61" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL THROWBACK (24X7)"  group-title="Unsorted",NFL THROWBACK (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82791
+
+#EXTINF:-1, tvg-chno="62" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL TOP 10 (24X7)"  group-title="Unsorted",NFL TOP 10 (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82790
+
+#EXTINF:-1, tvg-chno="63" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL TOP 100 GOAT (24X7)"  group-title="Unsorted",NFL TOP 100 GOAT (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82789tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL NETWORK"  group-title="Unsorted",NFL NETWORK
+http://f.ok2.se:8000/Fonzi/Fonzi/105005
+
+#EXTINF:-1, tvg-chno="64" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="REDZONE HD"  group-title="Unsorted",REDZONE HD
+http://f.ok2.se:8000/Fonzi/Fonzi/105006
+
+#EXTINF:-1, tvg-chno="65" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 1"  group-title="Unsorted",NFL 1
+http://f.ok2.se:8000/Fonzi/Fonzi/105007
+
+#EXTINF:-1, tvg-chno="66" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 2"  group-title="Unsorted",NFL 2
+http://f.ok2.se:8000/Fonzi/Fonzi/105008
+
+#EXTINF:-1, tvg-chno="67" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 3"  group-title="Unsorted",NFL 3
+http://f.ok2.se:8000/Fonzi/Fonzi/105009
+
+#EXTINF:-1, tvg-chno="68" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 4"  group-title="Unsorted",NFL 4
+http://f.ok2.se:8000/Fonzi/Fonzi/105010
+
+#EXTINF:-1, tvg-chno="69" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 5"  group-title="Unsorted",NFL 5
+http://f.ok2.se:8000/Fonzi/Fonzi/105011
+
+#EXTINF:-1, tvg-chno="70" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 6"  group-title="Unsorted",NFL 6
+http://f.ok2.se:8000/Fonzi/Fonzi/105012
+
+#EXTINF:-1, tvg-chno="71" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 7"  group-title="Unsorted",NFL 7
+http://f.ok2.se:8000/Fonzi/Fonzi/105013
+
+#EXTINF:-1, tvg-chno="72" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 8"  group-title="Unsorted",NFL 8
+http://f.ok2.se:8000/Fonzi/Fonzi/105014
+
+#EXTINF:-1, tvg-chno="73" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 9"  group-title="Unsorted",NFL 9
+http://f.ok2.se:8000/Fonzi/Fonzi/105015
+
+#EXTINF:-1, tvg-chno="74" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 10"  group-title="Unsorted",NFL 10
+http://f.ok2.se:8000/Fonzi/Fonzi/105016
+
+#EXTINF:-1, tvg-chno="75" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 11"  group-title="Unsorted",NFL 11
+http://f.ok2.se:8000/Fonzi/Fonzi/105017
+
+#EXTINF:-1, tvg-chno="76" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 12"  group-title="Unsorted",NFL 12
+http://f.ok2.se:8000/Fonzi/Fonzi/105018
+
+#EXTINF:-1, tvg-chno="77" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL 13"  group-title="Unsorted",NFL 13
+http://f.ok2.se:8000/Fonzi/Fonzi/105019
+
+#EXTINF:-1, tvg-chno="78" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL FILMS PRESENT (24X7)"  group-title="Unsorted",NFL FILMS PRESENT (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82794
+
+#EXTINF:-1, tvg-chno="79" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL MIC'D UP (24X7)"  group-title="Unsorted",NFL MIC'D UP (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82793
+
+#EXTINF:-1, tvg-chno="80" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL SUPERBOWL (24X7)"  group-title="Unsorted",NFL SUPERBOWL (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82792
+
+#EXTINF:-1, tvg-chno="81" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL THROWBACK (24X7)"  group-title="Unsorted",NFL THROWBACK (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82791
+
+#EXTINF:-1, tvg-chno="82" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL TOP 10 (24X7)"  group-title="Unsorted",NFL TOP 10 (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82790
+
+#EXTINF:-1, tvg-chno="83" tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL TOP 100 GOAT (24X7)"  group-title="Unsorted",NFL TOP 100 GOAT (24X7)
+http://f.ok2.se:8000/Fonzi/Fonzi/82789
+ 
+
+
+
